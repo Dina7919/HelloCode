@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\bin\Debug\net6.0\Leksia1C#.exe
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\bin\Debug\net6.0\Leksia1C#.deps.json
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\bin\Debug\net6.0\Leksia1C#.runtimeconfig.json
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\bin\Debug\net6.0\Leksia1C#.dll
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\bin\Debug\net6.0\Leksia1C#.pdb
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.AssemblyInfo.cs
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.dll
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\refint\Leksia1C#.dll
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.pdb
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\Leksia1C#.genruntimeconfig.cache
+C:\Users\HP\Desktop\GeekBrains\Leksia1C#\obj\Debug\net6.0\ref\Leksia1C#.dll

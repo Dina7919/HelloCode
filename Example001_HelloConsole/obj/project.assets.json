@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\Leksia1C#.csproj",
-      "projectName": "Leksia1C#",
-      "projectPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\Leksia1C#.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectName": "Example001_HelloConsole",
+      "projectPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\Leksia1C#\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
